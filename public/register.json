@@ -1,13 +1,14 @@
 {
  "title": "Register of records preservation notices",
  "subject": "Great House Farm / Tŷ Mawr, Llandough-juxta-Penarth, and land at Llandough and Leckwith",
- "updated": "2026-11-10T22:43Z",
+ "updated": "2026-11-10T22:57Z",
  "method": "A notice counts as sent only when the outgoing message is on file. Dates are the first notice on file for each institution.",
  "statuses": [
   "sent",
   "acknowledged",
   "held until <date>",
-  "drafted"
+  "drafted",
+  "drafted, in hive review"
  ],
  "entries": [
   {
@@ -404,7 +405,7 @@
    "notice_date": "not yet",
    "channel": "email",
    "reference": "—",
-   "status": "drafted"
+   "status": "drafted, in hive review"
   },
   {
    "institution": "Court of Appeal (Civil Division), Civil Appeals Office",
@@ -413,7 +414,7 @@
    "notice_date": "not yet",
    "channel": "email",
    "reference": "—",
-   "status": "drafted"
+   "status": "drafted, in hive review"
   },
   {
    "institution": "Cushman & Wakefield Debenham Tie Leung Ltd (successor to Debenham Tewson & Chinnocks / DTZ)",
@@ -422,7 +423,7 @@
    "notice_date": "not yet",
    "channel": "post",
    "reference": "—",
-   "status": "drafted"
+   "status": "drafted, in hive review"
   },
   {
    "institution": "Forest of Cardiff (charity 1002867, company 02591796)",
@@ -431,7 +432,7 @@
    "notice_date": "not yet",
    "channel": "post",
    "reference": "—",
-   "status": "drafted"
+   "status": "drafted, in hive review"
   },
   {
    "institution": "Historic England",
@@ -440,7 +441,7 @@
    "notice_date": "not yet",
    "channel": "email",
    "reference": "—",
-   "status": "drafted"
+   "status": "drafted, in hive review"
   },
   {
    "institution": "Information Commissioner's Office",
@@ -449,7 +450,7 @@
    "notice_date": "not yet",
    "channel": "email",
    "reference": "—",
-   "status": "held until 2026-11-20"
+   "status": "drafted, in hive review (held until 2026-11-20)"
   },
   {
    "institution": "Natural Resources Wales",
@@ -458,7 +459,7 @@
    "notice_date": "not yet",
    "channel": "email",
    "reference": "—",
-   "status": "drafted"
+   "status": "drafted, in hive review"
   },
   {
    "institution": "Public Services Ombudsman for Wales",
@@ -467,7 +468,7 @@
    "notice_date": "not yet",
    "channel": "email",
    "reference": "—",
-   "status": "drafted"
+   "status": "drafted, in hive review"
   },
   {
    "institution": "The Wildlife Trust of South and West Wales",
@@ -476,16 +477,16 @@
    "notice_date": "not yet",
    "channel": "email",
    "reference": "—",
-   "status": "drafted"
+   "status": "drafted, in hive review"
   },
   {
    "institution": "Valuation Office Agency",
    "type": "public",
    "foi_bound": true,
    "notice_date": "not yet",
-   "channel": "post",
+   "channel": "gov.uk contact form",
    "reference": "—",
-   "status": "drafted"
+   "status": "drafted, in hive review"
   }
  ]
 }
