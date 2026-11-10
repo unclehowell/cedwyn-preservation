@@ -1,0 +1,491 @@
+{
+ "title": "Register of records preservation notices",
+ "subject": "Great House Farm / Tŷ Mawr, Llandough-juxta-Penarth, and land at Llandough and Leckwith",
+ "updated": "2026-11-10T22:43Z",
+ "method": "A notice counts as sent only when the outgoing message is on file. Dates are the first notice on file for each institution.",
+ "statuses": [
+  "sent",
+  "acknowledged",
+  "held until <date>",
+  "drafted"
+ ],
+ "entries": [
+  {
+   "institution": "Amgueddfa Cymru – Museum Wales",
+   "type": "public",
+   "foi_bound": true,
+   "notice_date": "2026-05-29",
+   "channel": "email",
+   "reference": "Gmail Sent 19e750c31e2fcf5e",
+   "status": "sent"
+  },
+  {
+   "institution": "Cadw (Welsh Government)",
+   "type": "public",
+   "foi_bound": true,
+   "notice_date": "2026-05-29",
+   "channel": "email",
+   "reference": "Gmail Sent 19e750c31e2fcf5e",
+   "status": "sent"
+  },
+  {
+   "institution": "Glamorgan Archives",
+   "type": "public",
+   "foi_bound": true,
+   "notice_date": "2026-05-29",
+   "channel": "email",
+   "reference": "Gmail Sent 19e7510cba9af725",
+   "status": "sent"
+  },
+  {
+   "institution": "Heneb (formerly GGAT)",
+   "type": "public",
+   "foi_bound": true,
+   "notice_date": "2026-05-29",
+   "channel": "email",
+   "reference": "Gmail Sent 19e750c31e2fcf5e",
+   "status": "sent"
+  },
+  {
+   "institution": "Vale of Glamorgan Council",
+   "type": "public",
+   "foi_bound": true,
+   "notice_date": "2026-05-29",
+   "channel": "email (FOI unit, planning)",
+   "reference": "Gmail Sent 19e750c31e2fcf5e",
+   "status": "sent"
+  },
+  {
+   "institution": "Audit Wales",
+   "type": "public",
+   "foi_bound": true,
+   "notice_date": "2026-07-21",
+   "channel": "email (cc)",
+   "reference": "Gmail Sent 19f85b59ef763361",
+   "status": "sent"
+  },
+  {
+   "institution": "Information Commissioner's Office",
+   "type": "public",
+   "foi_bound": true,
+   "notice_date": "2026-07-21",
+   "channel": "email",
+   "reference": "Gmail Sent 19f85b59ef763361",
+   "status": "sent"
+  },
+  {
+   "institution": "SFO",
+   "type": "public",
+   "foi_bound": true,
+   "notice_date": "2026-07-21",
+   "channel": "email (cc)",
+   "reference": "Gmail Sent 19f85b59ef763361",
+   "status": "sent"
+  },
+  {
+   "institution": "Treescene (Forest of Cardiff related party)",
+   "type": "private",
+   "foi_bound": false,
+   "notice_date": "2026-09-17",
+   "channel": "email",
+   "reference": "Gmail Sent 1a0ad19d30c2f4f6",
+   "status": "sent"
+  },
+  {
+   "institution": "Persimmon Homes (successor to Ideal Homes)",
+   "type": "private",
+   "foi_bound": false,
+   "notice_date": "2026-09-27",
+   "channel": "email",
+   "reference": "Gmail Sent 1a0e3f34cc06c477",
+   "status": "sent"
+  },
+  {
+   "institution": "Archaeology Data Service",
+   "type": "public",
+   "foi_bound": false,
+   "notice_date": "2026-09-28",
+   "channel": "email (cc)",
+   "reference": "Gmail Sent 1a0e9f58d1f3cf15",
+   "status": "sent"
+  },
+  {
+   "institution": "BP plc archive (BP Properties Ltd)",
+   "type": "private",
+   "foi_bound": false,
+   "notice_date": "2026-09-28",
+   "channel": "email",
+   "reference": "Gmail Sent 1a0e9f58d1f3cf15",
+   "status": "sent"
+  },
+  {
+   "institution": "Blake Morgan LLP",
+   "type": "private",
+   "foi_bound": false,
+   "notice_date": "2026-09-28",
+   "channel": "email",
+   "reference": "Gmail Sent 1a0e9f58d1f3cf15",
+   "status": "sent"
+  },
+  {
+   "institution": "Cardiff Council (FOI / property)",
+   "type": "public",
+   "foi_bound": true,
+   "notice_date": "2026-09-28",
+   "channel": "email (cc)",
+   "reference": "Gmail Sent 1a0e9f58d1f3cf15",
+   "status": "sent"
+  },
+  {
+   "institution": "Cardiff County Court / HMCTS Cardiff",
+   "type": "public",
+   "foi_bound": false,
+   "notice_date": "2026-09-28",
+   "channel": "email",
+   "reference": "Gmail Sent 1a0e9f58d1f3cf15",
+   "status": "sent"
+  },
+  {
+   "institution": "Church in Wales",
+   "type": "private",
+   "foi_bound": false,
+   "notice_date": "2026-09-28",
+   "channel": "email (cc)",
+   "reference": "Gmail Sent 1a0e9f58d1f3cf15",
+   "status": "sent"
+  },
+  {
+   "institution": "Cotswold Archaeology",
+   "type": "private",
+   "foi_bound": false,
+   "notice_date": "2026-09-28",
+   "channel": "email",
+   "reference": "Gmail Sent 1a0e9f58d1f3cf15",
+   "status": "sent"
+  },
+  {
+   "institution": "Darwin Gray LLP",
+   "type": "private",
+   "foi_bound": false,
+   "notice_date": "2026-09-28",
+   "channel": "email",
+   "reference": "Gmail Sent 1a0e9f58d1f3cf15",
+   "status": "sent"
+  },
+  {
+   "institution": "Falcon Chambers / Landmark Chambers",
+   "type": "private",
+   "foi_bound": false,
+   "notice_date": "2026-09-28",
+   "channel": "email (cc)",
+   "reference": "Gmail Sent 1a0e9f58d1f3cf15",
+   "status": "sent"
+  },
+  {
+   "institution": "HM Land Registry",
+   "type": "public",
+   "foi_bound": true,
+   "notice_date": "2026-09-28",
+   "channel": "email (Wales Office, data protection)",
+   "reference": "Gmail Sent 1a0e9f79e1673b53",
+   "status": "sent"
+  },
+  {
+   "institution": "ITV Wales",
+   "type": "private",
+   "foi_bound": false,
+   "notice_date": "2026-09-28",
+   "channel": "email (cc)",
+   "reference": "Gmail Sent 1a0e9f58d1f3cf15",
+   "status": "sent"
+  },
+  {
+   "institution": "Linklaters LLP",
+   "type": "private",
+   "foi_bound": false,
+   "notice_date": "2026-09-28",
+   "channel": "email",
+   "reference": "Gmail Sent 1a0e9f58d1f3cf15",
+   "status": "sent"
+  },
+  {
+   "institution": "Ministry of Justice disclosure team",
+   "type": "public",
+   "foi_bound": true,
+   "notice_date": "2026-09-28",
+   "channel": "email (cc)",
+   "reference": "Gmail Sent 1a0e9f58d1f3cf15",
+   "status": "sent"
+  },
+  {
+   "institution": "Modern Records Centre, Warwick",
+   "type": "public",
+   "foi_bound": false,
+   "notice_date": "2026-09-28",
+   "channel": "email (cc)",
+   "reference": "Gmail Sent 1a0e9f58d1f3cf15",
+   "status": "sent"
+  },
+  {
+   "institution": "National Library of Wales",
+   "type": "public",
+   "foi_bound": true,
+   "notice_date": "2026-09-28",
+   "channel": "email",
+   "reference": "Gmail Sent 1a0e9f79e1673b53",
+   "status": "sent"
+  },
+  {
+   "institution": "PEDW (planning appeals)",
+   "type": "public",
+   "foi_bound": true,
+   "notice_date": "2026-09-28",
+   "channel": "email (cc)",
+   "reference": "Gmail Sent 1a0e9f58d1f3cf15",
+   "status": "sent"
+  },
+  {
+   "institution": "Parliamentary Archives / House of Lords",
+   "type": "public",
+   "foi_bound": true,
+   "notice_date": "2026-09-28",
+   "channel": "email",
+   "reference": "Gmail Sent 1a0e9f58d1f3cf15",
+   "status": "sent"
+  },
+  {
+   "institution": "RCAHMW (Coflein / NMRW)",
+   "type": "public",
+   "foi_bound": true,
+   "notice_date": "2026-09-28",
+   "channel": "email",
+   "reference": "Gmail Sent 1a0e9f79e1673b53",
+   "status": "sent"
+  },
+  {
+   "institution": "Senedd committee",
+   "type": "public",
+   "foi_bound": false,
+   "notice_date": "2026-09-28",
+   "channel": "email (cc)",
+   "reference": "Gmail Sent 1a0e9f58d1f3cf15",
+   "status": "sent"
+  },
+  {
+   "institution": "South Wales Police",
+   "type": "public",
+   "foi_bound": true,
+   "notice_date": "2026-09-28",
+   "channel": "email",
+   "reference": "Gmail Sent 1a0e9f79e1673b53",
+   "status": "sent"
+  },
+  {
+   "institution": "The National Archives",
+   "type": "public",
+   "foi_bound": true,
+   "notice_date": "2026-09-28",
+   "channel": "email",
+   "reference": "Gmail Sent 1a0e9f79e1673b53",
+   "status": "sent"
+  },
+  {
+   "institution": "Wales Office (UK Government)",
+   "type": "public",
+   "foi_bound": true,
+   "notice_date": "2026-09-28",
+   "channel": "email",
+   "reference": "Gmail Sent 1a0e9f79e1673b53",
+   "status": "sent"
+  },
+  {
+   "institution": "Welsh Government",
+   "type": "public",
+   "foi_bound": true,
+   "notice_date": "2026-09-28",
+   "channel": "email (FOI unit)",
+   "reference": "Gmail Sent 1a0e9f79e1673b53",
+   "status": "sent"
+  },
+  {
+   "institution": "Crown Prosecution Service",
+   "type": "public",
+   "foi_bound": true,
+   "notice_date": "2026-09-30",
+   "channel": "email",
+   "reference": "Gmail Sent 1a0f250d8b44a046",
+   "status": "sent"
+  },
+  {
+   "institution": "Companies House",
+   "type": "public",
+   "foi_bound": true,
+   "notice_date": "2026-10-10",
+   "channel": "email",
+   "reference": "Gmail Sent 1a1273a3ba16fc0e",
+   "status": "sent"
+  },
+  {
+   "institution": "BP Legal (bplegal.co.uk)",
+   "type": "private",
+   "foi_bound": false,
+   "notice_date": "2026-10-16",
+   "channel": "email",
+   "reference": "Gmail Sent 1a143aca110676d8",
+   "status": "sent"
+  },
+  {
+   "institution": "Ministry of Defence (Army Secretariat)",
+   "type": "public",
+   "foi_bound": true,
+   "notice_date": "2026-10-16",
+   "channel": "email",
+   "reference": "Gmail Sent 1a143e2f2ef2f376",
+   "status": "sent"
+  },
+  {
+   "institution": "RICS",
+   "type": "private",
+   "foi_bound": false,
+   "notice_date": "2026-10-16",
+   "channel": "email",
+   "reference": "Gmail Sent 1a143ac62b958bb0",
+   "status": "sent"
+  },
+  {
+   "institution": "Capital Law",
+   "type": "private",
+   "foi_bound": false,
+   "notice_date": "2026-10-29",
+   "channel": "email",
+   "reference": "Gmail Sent 1a1895bc7c9ecb04",
+   "status": "sent"
+  },
+  {
+   "institution": "Loosemores",
+   "type": "private",
+   "foi_bound": false,
+   "notice_date": "2026-10-29",
+   "channel": "email",
+   "reference": "Gmail Sent 1a1893e0f253de55",
+   "status": "sent"
+  },
+  {
+   "institution": "Government Legal Department (Bona Vacantia)",
+   "type": "public",
+   "foi_bound": true,
+   "notice_date": "2026-10-31",
+   "channel": "email",
+   "reference": "Gmail Sent 1a1937da867949ed",
+   "status": "sent"
+  },
+  {
+   "institution": "Hugh James",
+   "type": "private",
+   "foi_bound": false,
+   "notice_date": "2026-10-31",
+   "channel": "email",
+   "reference": "Gmail Sent 1a193801059f0e94",
+   "status": "sent"
+  },
+  {
+   "institution": "Mount Stuart (Bute archive)",
+   "type": "private",
+   "foi_bound": false,
+   "notice_date": "2026-10-31",
+   "channel": "email",
+   "reference": "Gmail Sent 1a193940a72ea656",
+   "status": "sent"
+  },
+  {
+   "institution": "Charity Commission for England and Wales",
+   "type": "public",
+   "foi_bound": true,
+   "notice_date": "not yet",
+   "channel": "email",
+   "reference": "—",
+   "status": "drafted"
+  },
+  {
+   "institution": "Court of Appeal (Civil Division), Civil Appeals Office",
+   "type": "public",
+   "foi_bound": false,
+   "notice_date": "not yet",
+   "channel": "email",
+   "reference": "—",
+   "status": "drafted"
+  },
+  {
+   "institution": "Cushman & Wakefield Debenham Tie Leung Ltd (successor to Debenham Tewson & Chinnocks / DTZ)",
+   "type": "private",
+   "foi_bound": false,
+   "notice_date": "not yet",
+   "channel": "post",
+   "reference": "—",
+   "status": "drafted"
+  },
+  {
+   "institution": "Forest of Cardiff (charity 1002867, company 02591796)",
+   "type": "private",
+   "foi_bound": false,
+   "notice_date": "not yet",
+   "channel": "post",
+   "reference": "—",
+   "status": "drafted"
+  },
+  {
+   "institution": "Historic England",
+   "type": "public",
+   "foi_bound": true,
+   "notice_date": "not yet",
+   "channel": "email",
+   "reference": "—",
+   "status": "drafted"
+  },
+  {
+   "institution": "Information Commissioner's Office",
+   "type": "public",
+   "foi_bound": true,
+   "notice_date": "not yet",
+   "channel": "email",
+   "reference": "—",
+   "status": "held until 2026-11-20"
+  },
+  {
+   "institution": "Natural Resources Wales",
+   "type": "public",
+   "foi_bound": true,
+   "notice_date": "not yet",
+   "channel": "email",
+   "reference": "—",
+   "status": "drafted"
+  },
+  {
+   "institution": "Public Services Ombudsman for Wales",
+   "type": "public",
+   "foi_bound": true,
+   "notice_date": "not yet",
+   "channel": "email",
+   "reference": "—",
+   "status": "drafted"
+  },
+  {
+   "institution": "The Wildlife Trust of South and West Wales",
+   "type": "private",
+   "foi_bound": false,
+   "notice_date": "not yet",
+   "channel": "email",
+   "reference": "—",
+   "status": "drafted"
+  },
+  {
+   "institution": "Valuation Office Agency",
+   "type": "public",
+   "foi_bound": true,
+   "notice_date": "not yet",
+   "channel": "post",
+   "reference": "—",
+   "status": "drafted"
+  }
+ ]
+}
